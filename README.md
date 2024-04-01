@@ -6,4 +6,4 @@ Aparte de lo antes mencionado hay un archivo html que representa mi nivel actual
 
 ## Extra
 
-Link a mi git page: (Git)[Raskatrinsqui.github.io]
+Link a mi git page: [Git](Raskatrinsqui.github.io)
