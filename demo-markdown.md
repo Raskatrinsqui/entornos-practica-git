@@ -6,18 +6,21 @@
 
 ### Esto es un h3
 
-Esto es un parrafo sin mas
+Esto es un parrafo simple
 
 Esto es otro parrafo
 
-1. Esto es un ol
-2. adios
-3. asihd
+## Lista organizada
 
-- Esto es un ul
+1. Primero
+2. Segundo
+3. Tercero
 
-- adios
-- asdo
+## Lista desorganizada
+
+- elemento 1
+- elemento 2
+- elemento 3
 
 Las negritas se ponen **asi** y la cursiba *asi*
 
@@ -27,11 +30,12 @@ Las rayitas vuelven a lo de arriba h2
 los iguales son para h1
 ===
 
->Esto es para una cita . Pero no me sale como una cita sino como otra cosa
+>Esto es para una cita .
 >
->>Dios esta muerto y la humanidad fue su asesino.
+>>Dios esta muerto y la humanidad fue su asesino. Nietzsche
 
 ---
+
 Las UL se pueden hacer con *, + o -
 
 Tambien puedes hacer esto
@@ -44,7 +48,7 @@ Tambien puedes hacer esto
 Tambien se pueden combinar con las OL
 
 1. lista 1
-2. lista 2
+2. lista 1
    - lista 2
      1. lista 3
         - lista 4
@@ -56,9 +60,9 @@ _ _ _
 ~~~~ Java
 public class EstoEsUnBloque{
     public static void main(String [] args){
-        String texto = "Esto sirve para guardar codigo pero le tienes que especificar el lenguaje con los gusanitos";
+        String texto = "Esto sirve para guardar codigo pero le tienes que especificar el lenguaje";
     
-        System.out.println(texto + ", esta guapo");
+        System.out.println(texto + ", Hola mundo");
     }
 } 
 ~~~~
@@ -66,5 +70,3 @@ public class EstoEsUnBloque{
 ### La cursiva y la negrita se pueden poner con * y con _ , con tres se aplican los dos
 
 [Esto es un enlace](https://www.youtube.com)
-
-![Texto alternativo a la imagen](/)
